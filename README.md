@@ -1,1 +1,1 @@
-# OOP-In-Javascript
+# JavaScript is not a class-based object-oriented language. But it still has ways of using object oriented programming (OOP).
